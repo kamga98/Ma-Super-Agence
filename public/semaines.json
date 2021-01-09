@@ -1,0 +1,3097 @@
+[
+    
+    {
+      "id" : 1,    
+      "nom" : "S1",
+      "date_debut" : "14-09-20",
+      "date_fin"   : "18-09-20",
+      "full" : 0,
+      "groupe1" : {
+
+        "lundi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        }
+
+                                         
+      },
+      "groupe2" : {
+
+        "lundi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+    }
+  }
+},
+
+    
+   
+    {
+      "id" : 2,
+      "nom" : "S2",
+      "date_debut" : "21-09-2020",
+      "date_fin"   : "25-09-2020",
+      "full" : 0,
+      "groupe1" : {
+
+        "lundi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",     
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : "TD Droits",                                    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"       
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {         
+            "nom" : "TD Droits",                       
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        }
+
+                                         
+      },
+      "groupe2" : {
+
+        "lundi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+    }
+  }
+},
+                  
+
+    
+    {
+      "id" : 3,
+      "nom" : "S3",
+      "date_debut" : "28-09-20",
+      "date_fin"   : "02-10-20",           
+      "full" : 0,
+      "groupe1" : {
+
+        "lundi" : {                     
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                                  
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        }
+
+                                         
+      },
+      "groupe2" : {
+
+        "lundi" : {                     
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                                  
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        }
+
+                                         
+      }
+    },
+      {
+        "id" : 4,    
+        "nom" : "S4",
+        "date_debut" : "05-10-2020",
+        "date_fin"   : "09-10-2020",
+        "full" : 0,
+        "groupe1" : {
+  
+          "lundi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud"    
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "mardi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "mercredi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "jeudi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "vendredi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          }
+  
+                                           
+        },
+        "groupe2" : {
+  
+          "lundi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud"    
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "mardi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "mercredi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "jeudi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+  
+          },
+          "vendredi" : {
+  
+            "m1" : {         
+                "nom" : "Technos Web",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"                           
+    
+            },
+            "m2" : {    
+              "nom" : "BDD",            
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+                
+          },
+          "m3" : {
+              "nom" : "JAVA",    
+                "type" : "Cours",
+                "profs" : "William Ruchaud" 
+                
+          },
+          "m4" : {
+              "nom" : "Recrutement",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          },
+          "m5" : {
+              "nom" : " TD Droits",
+                "type" : "Cours",
+                "profs" : "William Ruchaud"
+                
+          }
+      }
+    }
+  },
+    {
+      "id" : 5,    
+      "nom" : "S5",
+      "date_debut" : "12-10-2020",
+      "date_fin"   : "16-10-2020",
+      "full" : 0,
+      "groupe1" : {
+
+        "lundi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        }
+
+                                         
+      },
+      "groupe2" : {
+
+        "lundi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud"    
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mardi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "mercredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "jeudi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+
+        },
+        "vendredi" : {
+
+          "m1" : {         
+              "nom" : "Technos Web",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"                           
+  
+          },
+          "m2" : {    
+            "nom" : "BDD",            
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+              
+        },
+        "m3" : {
+            "nom" : "JAVA",    
+              "type" : "Cours",
+              "profs" : "William Ruchaud" 
+              
+        },
+        "m4" : {
+            "nom" : "Recrutement",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        },
+        "m5" : {
+            "nom" : " TD Droits",
+              "type" : "Cours",
+              "profs" : "William Ruchaud"
+              
+        }
+    }
+  }
+},
+  {
+    "id" : 6,    
+    "nom" : "S6",
+    "date_debut" : "19-10-20",
+    "date_fin"   : "23-10-2020",
+    "full" : 0,
+    "groupe1" : {
+
+      "lundi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud"    
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "mardi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "mercredi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "jeudi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "vendredi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      }
+
+                                       
+    },
+    "groupe2" : {
+
+      "lundi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud"    
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "mardi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "mercredi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "jeudi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+
+      },
+      "vendredi" : {
+
+        "m1" : {         
+            "nom" : "Technos Web",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"                           
+
+        },
+        "m2" : {    
+          "nom" : "BDD",            
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+            
+      },
+      "m3" : {
+          "nom" : "JAVA",    
+            "type" : "Cours",
+            "profs" : "William Ruchaud" 
+            
+      },
+      "m4" : {
+          "nom" : "Recrutement",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      },
+      "m5" : {
+          "nom" : " TD Droits",
+            "type" : "Cours",
+            "profs" : "William Ruchaud"
+            
+      }
+  }
+}
+},
+{
+  "id" : 7,    
+  "nom" : "S7",
+  "date_debut" : "26-10-20",
+  "date_fin"   : "30-10-20",
+  "full" : 0,
+  "groupe1" : {
+
+    "lundi" : {
+
+      "m1" : {         
+                                   
+
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+            
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+    "mardi" : {
+
+      "m1" : {         
+         
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+        
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+       
+          
+    }
+
+    },
+    "mercredi" : {
+
+      "m1" : {         
+                                   
+
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+        
+          
+    },
+    "m4" : {
+       
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+    "jeudi" : {
+
+      "m1" : {         
+                                    
+
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+        
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+    "vendredi" : {
+
+                               
+
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+        
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+
+                                     
+  
+    "groupe2" : {
+
+    "lundi" : {
+
+      "m1" : {         
+                                   
+
+      },
+      "m2" : {    
+       
+          
+    },
+    "m3" : {
+          
+          
+    },
+    "m4" : {
+       
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+    "mardi" : {
+
+      "m1" : {         
+                                    
+
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+         
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+    "mercredi" : {
+
+      "m1" : {         
+                                   
+
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+       
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+    "jeudi" : {
+
+      "m1" : {         
+                                   
+
+      },
+      "m2" : {    
+        
+          
+    },
+    "m3" : {
+        
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+        
+          
+    }
+
+    },
+    "vendredi" : {
+
+      "m1" : {         
+                                    
+
+      },
+      "m2" : {    
+       
+          
+    },
+    "m3" : {
+        
+          
+    },
+    "m4" : {
+        
+          
+    },
+    "m5" : {
+        
+          
+    }
+}
+}
+},
+
+{
+  "id" : 8,    
+  "nom" : "S8",
+  "date_debut" : "02-11-20",
+  "date_fin"   : "06-11-20",
+  "full" : 0,
+  "groupe1" : {
+
+    "lundi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud"    
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mardi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mercredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "jeudi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "vendredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    }
+
+                                     
+  },
+  "groupe2" : {
+
+    "lundi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud"    
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mardi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mercredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "jeudi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "vendredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+}
+}
+},
+{
+  "id" : 9,    
+  "nom" : "S9",
+  "date_debut" : "09-11-20",
+  "date_fin"   : "13-11-20",
+  "full" : 0,
+  "groupe1" : {
+
+    "lundi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud"    
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mardi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mercredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "jeudi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "vendredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    }
+
+                                     
+  },
+  "groupe2" : {
+
+    "lundi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud"    
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mardi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "mercredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "jeudi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+
+    },
+    "vendredi" : {
+
+      "m1" : {         
+          "nom" : "Technos Web",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"                           
+
+      },
+      "m2" : {    
+        "nom" : "BDD",            
+        "type" : "Cours",
+        "profs" : "William Ruchaud"
+          
+    },
+    "m3" : {
+        "nom" : "JAVA",    
+          "type" : "Cours",
+          "profs" : "William Ruchaud" 
+          
+    },
+    "m4" : {
+        "nom" : "Recrutement",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    },
+    "m5" : {
+        "nom" : " TD Droits",
+          "type" : "Cours",
+          "profs" : "William Ruchaud"
+          
+    }
+}
+}
+}
+]  
